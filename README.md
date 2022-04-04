@@ -21,6 +21,7 @@ A customizable blog starter using:
 
 ## Getting Started
 
+
 ---
 
 You can get started with this project in two ways: locally or using the [setup wizard](https://nextjs-wizard.netlify.app/).
